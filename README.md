@@ -10,22 +10,28 @@ Atualmente, busco **oportunidades profissionais** na área de desenvolvimento, o
 
 ### 📱 Mobile
 - React Native  
-- TypeScript  
-- JavaScript  
+- Flutter
+
+### 🌐 Web
+- React.js
+- HTML/CSS
 
 ### 🧠 Backend / APIs
 - Node.js  
-- Express.js  
-- Criação de APIs REST  
+- Express.js
+- ASP.NET
 
 ### 🗄️ Banco de Dados
 - PostgreSQL  
 - MySQL  
 
-### 🧩 Outras Experiências
-- .NET (C#) – APIs e aplicações e   
-- Godot Engine – criação de jogos como hobby  
-- Git & GitHub – versionamento e organização de projetos  
+### 🧩 Linguagens
+- JavaScript
+- TypeScript
+- C#
+- Dart
+- HTML/CSS
+- gdScript
 
 ---
 
